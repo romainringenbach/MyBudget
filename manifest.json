@@ -1,0 +1,10 @@
+{
+	"id": "my-budget",
+	"name": "MyBudget",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "A budget plugin for Obsidian",
+	"author": "Romain Ringenbach",
+	"authorUrl": "https://github.com/romainringenbach",
+	"isDesktopOnly": true
+}
